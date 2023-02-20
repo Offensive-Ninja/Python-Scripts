@@ -9,6 +9,7 @@ from sys import exit
 # 
 # Uses their basic print shellcode
 #
+
 PROT_READ = 0x01
 PROT_WRITE = 0x02
 PROT_EXEC=0x04
